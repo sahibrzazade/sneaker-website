@@ -1,0 +1,208 @@
+{
+  "nav": {
+    "0": "Ana Səhifə",
+    "1": "Mağaza",
+    "2": "Blog",
+    "3": "Daha",
+    "4": "Haqqımızda",
+    "5": "Əlaqə",
+    "6": "FAQ",
+    "7": "Xoş Gəlmisiniz,",
+    "8": "Çıxış",
+    "9": "Siz hesaba daxil olmamısınız",
+    "10": "Daxil ol"
+  },
+  "footer": {
+    "0": "PULSUZ GÖNDƏRİLMƏ VƏ QAYTARMA SİYASƏTİ",
+    "1": "90 GÜNLÜK ZƏMANƏT",
+    "2": "YENİ MƏHSUL TƏKLİFİ",
+    "3": "Mağaza",
+    "4": "Mağazaya Keç",
+    "6": "Blog",
+    "7": "Haqqımızda",
+    "8": "Əlaqə",
+    "9": "Bloq",
+    "10": "FAQ"
+  },
+  "contact": {
+    "0": "Əlaqə",
+    "1": "Bizim baxışımız",
+    "2": "Biz nə edirik?",
+    "3": "Tarixçə",
+    "4": "Bizimlə əlaqə saxlayın",
+    "5": "Ad",
+    "6": "Email",
+    "7": "Mesaj",
+    "8": "Mesajı göndər"
+  },
+  "faq": {
+    "0": "FAQ (Tez-tez soruşulan suallar)",
+    "1": "Geri qaytarma siyasətiniz nədir?",
+    "2": "Mən beynəlxalq müştəri olsam malıml necə geri qaytara bilərəm?",
+    "3": "Beynəlxalq çatdırılma mövcuddurmu?",
+    "4": "Sifarişimi necə ləğv edə bilərəm?",
+    "5": "Sifarişim nə vaxt gələcək?",
+    "6": "Məhsul və ya sifarişimlə bağlı sorğularımı/suallarımı necə təqdim edə bilərəm?",
+    "7": "Qaytarma siyasətimiz, məhsulun istifadə edilməmiş və orijinal qablaşdırmada olması şərti ilə, satın alındıqdan sonra 30 gün ərzində tam geri qaytarılması üçün malları qaytarmağa imkan verir. Biz həmçinin eyni vaxt çərçivəsində qüsurlu və ya zədələnmiş əşyaların dəyişdirilməsini təklif edirik.",
+    "8": "Komandamız sizə geri qaytarma prosesində bələdçilik edəcək və zəruri hallarda sizə geri qaytarma icazəsi verəcəkdir.Sifarişi etibarlı şəkildə qablaşdırın, onun orijinal vəziyyətdə olmasını təmin edin və müştəri xidməti komandamız tərəfindən təqdim olunan hər hansı müvafiq sənədləri daxil edin.",
+    "9": "Bəli, biz dünyanın müxtəlif ölkələrinə beynəlxalq göndərmə təklif edirik. Veb saytımızda ödəniş prosesi zamanı, yerinizə xas olan göndərmə seçimlərinə və xərclərə baxmaq üçün açılan menyudan ölkənizi seçə bilərsiniz."
+  },
+  "home": {
+    "0": "Gözdən keçirin",
+    "1": "Ən Yeni Məhsullar",
+    "2": "Sizin üçün ideal parçaları tapın",
+    "3": "Indi Al!",
+    "4": "Axtar",
+    "5": "Məhdud Buraxılış İdman Geyimi",
+    "6": "Səyahətiniz Gözləyir"
+  },
+  "about": {
+    "0": "HAQQIMIZDA",
+    "1": "BIZ KIMIK?",
+    "2": "YENI KOLLEKSIYA"
+  },
+  "slide": {
+    "0": "NÖVBƏTİ ALIŞINIZA 10% ENDİRİM",
+    "1": "İNDİ ALIN - SONRA ÖDƏYİN",
+    "2": "ÖDƏNİŞSİZ GERİ QAYTARILMA"
+  },
+  "cart": {
+    "0": "Səbətiniz hazırda boşdur",
+    "1": "mağazaya qayıt",
+    "2": "Məhsul",
+    "3": "Qiymət",
+    "4": "Say",
+    "5": "Cəm",
+    "6": "Ümumi",
+    "7": " Kuponu tətbiq et",
+    "8": "Endirim",
+    "9": "Kassaya gedin",
+    "10": "Sifarişi tamamlamaq üçün hesabınıza daxil olmalısınız",
+    "11": "Daxil ol"
+  },
+  "toast": {
+    "0": "səbətə əlavə edildi",
+    "1": "səbətdən çıxarıldı",
+    "2": "kupon tətbiq edildi",
+    "3": "kupon silindi",
+    "4": "kupon mövcud deyil",
+    "5": "istək siyahınıza əlavə edildi",
+    "6": "istək siyahınızdan çıxarıldı",
+    "7": "Sizin sifarişiniz alındı"
+  },
+  "loading": {
+    "0": "Yüklənir, xahiş edirik gözləyin"
+  },
+  "shop": {
+    "0": "Mağaza",
+    "1": "Ətraflı",
+    "2": "Məhsul mövcud deyil",
+    "3": "Sırala",
+    "4": "Hamısı",
+    "5": "Aşağı qiymət",
+    "6": "Yüksək qiymət",
+    "7": "Aşağı Reytinq",
+    "8": "Yüksək Reytinq",
+    "9": "Brendlər",
+    "10": "Hamısı",
+    "11": "Axtar",
+    "12": "Minimum Qiyməti Daxil Edin",
+    "13": "Maksimum Qiymət Daxil Edin"
+  },
+  "singleProduct": {
+    "0": "Stokda Var",
+    "1": "Stokda Yoxdur",
+    "2": "Xarici: Dəri 100%, Poliamid 100%",
+    "3": "Astar: Dəri 100%",
+    "4": "Altlıq: Kauçuk 100%",
+    "5": "Kateqoriya",
+    "6": "Bu məhsul hazırda əlçatan deyil",
+    "7": "Mağazaya qayıt",
+    "8": "Səbətə əlavə et",
+    "9": "Təsvir",
+    "10": "Material",
+    "11": "Yuxarı",
+    "12": "Kətan. Altlıq: kauçuk",
+    "13": "Brend",
+    "14": "İdman ayaqqabıları rahatlığı, üslubu və funksionallığı ilə tanınan çox yönlü ayaqqabı növüdür. Tipik olaraq rezin altlıq və kətan və ya dəri üst ilə dizayn edilən idman ayaqqabıları müxtəlif zövqlərə və ehtiyaclara cavab vermək üçün geniş çeşiddə, rənglərdə və materiallarda təqdim olunur. İstər moda, idman və ya gündəlik geyim üçün idman ayaqqabısı əlamətdar hala gəldi. və müxtəlif auditoriyaya həm rahatlıq, həm də üslub təklif edən müasir ayaqqabı mədəniyyətinin əvəzsiz hissəsidir.",
+    "15": "Rəylər",
+    "16": "Şərh yazın...",
+    "17": "Şərh yazmaq üçün daxil olun",
+    "18": "Daxil ol",
+    "19": "Şərh göndərin",
+    "20": "Şərhiniz göndərildi!",
+    "21": "Şərhiniz silindi!"
+  },
+  "wishlist": {
+    "0": "Sizin İstək Siyahınız hal hazırda boşdur"
+  },
+  "checkout": {
+    "0": "Sifarişiniz alındı",
+    "1": "Sifariş Detalı",
+
+    "2": "Tövsiyə olunan məhsulları nəzərdən keçirin "
+  },
+  "login": {
+    "0": "DAXİL OL",
+    "1": "E-poçt",
+    "2": "Şifrə",
+    "3": "Hesabın yoxdur?",
+    "4": "Qeydiyyatdan keç",
+    "5": "indi",
+    "6": "Daxil ol",
+    "7": "Xoş gəldin, ",
+    "8": "E-poçt ünvanınızı qeyd edin",
+    "9": "Şifrənizi qeyd edin",
+    "10": "Şifrəni göstər"
+  },
+  "register": {
+    "0": "Qeydiyyatdan keç",
+    "1": "Istifadəçi adı",
+    "2": "E-poçt",
+    "3": "Şifrə",
+    "4": "Geri dön",
+    "5": "Daxil ol",
+    "6": "Qeydiyyatdan keç",
+    "7": "Hesab Yaradıldı!",
+    "8": "İstifadəçi adınızı qeyd edin",
+    "9": "E-poçt ünvanınızı qeyd edin",
+    "10": "Şifrənizi qeyd edin"
+  },
+  "admin": {
+    "0": "Salam, Yenidən Xoş Gəlmisiniz Admin!",
+    "1": "+ Blog əlavə et",
+    "2": "Şəkil",
+    "3": "Başlıq",
+    "4": "Təsvir",
+    "5": "Tarix",
+    "6": "Redaktə et",
+    "7": "Sil",
+    "8": "Blog silindi!"
+  },
+  "addBlog": {
+    "0": "Blog əlavə et",
+    "1": "Başlıq İngiliscə",
+    "2": "Başlıq Azərbaycanca",
+    "3": "Təsvir İngiliscə",
+    "4": "Təsvir Azərbaycanca",
+    "5": "Şəkil URL",
+    "6": "Tarix",
+    "7": "Yeni blog əlavə edildi!"
+  },
+  "editBlog": {
+    "0": "Blogu redaktə et",
+    "1": "Başlıq İngiliscə",
+    "2": "Təsvir İngiliscə",
+    "3": "Şəkil URL",
+    "4": "Tarix",
+    "5": "Blog redaktə edildi!",
+    "6": "Başlıq Azərbaycanca",
+    "7": "Təsvir Azərbaycanca"
+  },
+  "blogs": {
+    "0": "Daha çox..."
+  },
+  "singleBlog": {
+    "0": "Digər bloqlarımıza baxın"
+  }
+}
